@@ -1,6 +1,6 @@
 # Źródła obrazów i materiałów
 
-Wszystkie fotografie oraz dzieła sztuki są domeną publiczną z Wikimedia Commons.
+Wszystkie fotografie oraz dzieła sztuki są domeną publiczną z Wikimedia Commons lub moje własne.
 
 Ceramika Bolesławiecka: <a href="https://commons.wikimedia.org/wiki/File:Ceramika_Boles%C5%82awiecka-talerz.jpg">Szydzio</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
 
@@ -12,4 +12,4 @@ Kocie Łby: <a href="https://commons.wikimedia.org/wiki/File:Poland,_Lublin,_ul.
 
 Warszawska Syrena: <a href="https://commons.wikimedia.org/wiki/File:Syrena_Warszawska.jpg">Cezary Piwowarski</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons
 
-Rodzina + Warszawa: Zdjęcia własne.
+Rodzina + Rzeszów: Zdjęcia własne.
