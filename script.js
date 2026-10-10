@@ -8,14 +8,14 @@
     "krakow-golebie": {
       title: "Kraków: gołębie",
       kicker: "SZCZURY NIEBA? NIE...",
-      description: "Gołębie Krakowskie to stworzenia bliskie mojego serca. Nawet gdy dla niektórych wydawają się proste i zwyczajne, znajduje piękno w rojach ciemnych, szaro-niebieskich piór.",
+      description: "Gołębie Krakowskie to stworzenia bliskie mojemu sercu. Nawet gdy dla niektórych wydają się proste i zwyczajne, znajduje piękno w chmarach ciemnych, szaro-niebieskich piór.",
       image: "images/krakow-golebie.jpg",
       alt: "Gołębie w Krakowie"
     },
     "krakow-kocie-lby": {
       title: "Kraków: kocie łby",
       kicker: "KAMIENIE, KTÓRE PRZEŻYŁY WIEKI",
-      description: "Właściwie, to zdjęcie to ulica Lublina, ale kolory oraz ujęcie przypominają mi dokładnej atmosfery dróg średniowiecznych miast, tak jak w Krakowie; te kamienie noszą historie pokoleń, i ich zmęczone, lśniące łby, tutaj widoczne, również służyły moich przodków.",
+      description: "Właściwie, to zdjęcie to ulica Lublina, ale kolory oraz ujęcie przypominają mi dokładnie klimat dróg średniowiecznych miast, tak jak w Krakowie; te kamienie noszą historie pokoleń, a ich zmęczone, lśniące łby, tutaj widoczne, może również służyły moim przodkom.",
       image: "images/krakow-kocie-lby.jpg",
       alt: "Kocie łby — brukowana droga w Krakowie"
     },
@@ -36,7 +36,7 @@
     "mojapolska": {
       title: "Moja Polska",
       kicker: "KORZENIE",
-      description: "Oto moja polska. Zaczyna się z rodziną, tutaj zgromadzona na moim chcie w kościele, w ktróym brali ślub moi rodzice w Krakowie.",
+      description: "Oto moja Polska. Zaczyna się z rodziną, tutaj zgromadzona na moim chrzcie w Krakowie, w kościele, w którym brali ślub moi rodzice w poprzednim stuleciu i zarazem tysiacleciu.",
       image: "images/rodzina.jpeg",
       alt: "Moja Rodzina"
     },
@@ -44,7 +44,7 @@
     "rzeszow": {
       title: "Rzeszów",
       kicker: "MIASTO · PODKARPACIE",
-      description: "Rzeszów, stolica Podkarpacia; to skąd mój tata. Kwiaty wszędzie.",
+      description: "Rzeszów, stolica Podkarpacia; to skąd pochodzi mój tata. Kwiaty wszędzie.",
       image: "images/rzeszow.jpeg",
       alt: "Rzeszów — miejsce na mapie inspiracji"
     },
