@@ -8,7 +8,7 @@
     "krakow-golebie": {
       title: "Kraków: gołębie",
       kicker: "SZCZURY NIEBA? NIE...",
-      description: "Gołębie Krakowskie to stworzenia bliskie mojemu sercu. Nawet gdy dla niektórych wydają się proste i zwyczajne, znajduje piękno w chmarach ciemnych, szaro-niebieskich piór.",
+      description: "Gołębie krakowskie to stworzenia bliskie mojemu sercu. Nawet gdy dla niektórych wydają się proste i zwyczajne, znajduje piękno w chmarach ciemnych, szaro-niebieskich piór.",
       image: "images/krakow-golebie.jpg",
       alt: "Gołębie w Krakowie"
     },
