@@ -1,6 +1,6 @@
 # Kolory Mojej Polski
 
-Kolor może przywoływać miejsce, skojarzenie albo wspomnienie. Inspiracją do tego projektu jest moja więź z Polską, Kraków — rodzinne miasto moich rodziców — oraz tradycyjna sztuka ludowa, w tym ceramika z Bolesławca. Chciałam przyjżeć się bliżej charasterystycznom kolorom rzeczy które representują moją relacje z polską, jej kulturą, oraz jej codziennym życiem.
+Kolor może przywoływać miejsce, skojarzenie albo wspomnienie. Inspiracją do tego projektu jest moja więź z Polską, Kraków — rodzinne miasto moich rodziców — oraz tradycyjna sztuka ludowa, w tym ceramika z Bolesławca. Chciałam przyjżeć się bliżej charakterystycznom kolorom rzeczy które representują moją relacje z polską, jej kulturą, oraz jej codziennym życiem.
 
 Przy pomocy AI, utworzyłam prostą strukture strony oraz główny algorytm identykowania centralnych barwów użytych zdjęć. Algorytm używa K-means clustering, matematyczną metode znajdując podobieństwa elementów danych (w tym projekcie, kolory). Ta strategia to troche skomplikowana na moje umiejętności jako uczeń w klasie II liceum, ale nauczyłam się jego teoretycznego zastosowania 2-3 lata temu. Sztuczna inteligencja pozwoliła mi zastosować tą metodę bez ręcznego wypracowania matematyki; nie podejmuje jednak za mnie decyzji artystycznych. Dobór dzieł, forma strony i interpretacja zdjęć należą do mnie.
 
